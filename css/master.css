@@ -1,6 +1,6 @@
 
 header {
-  background: rgb(40, 56, 30);
+  background: rgb(255,228,225);
   padding: 12px;
 }
 
@@ -18,12 +18,14 @@ header a {
   color : #ffffff;
   padding: 12px;
   display: block;
+  rgb(56, 20, 38)
 }
 
 
+
 .hero {
-  background: rgb(56, 20, 38) url('images/aesop.jpg') top center no-repeat;
-  color : rgb(0,0,0);
+  background: rgb(266, 289, 305) url('images/aesop.jpg') top center no-repeat;
+  color : rgb(100,100,100);
   min-height: 100vh;
   background-size: cover;
   background-attachment: fixed;
@@ -65,12 +67,20 @@ h2{margin-left: 20px}
 h2 {margin-right: 20px}
 h2 {color: rgb(100, 100, 100); }
 
+
+h3 {margin-top: 80px}
+h3{margin-left: 20px}
+h3 {margin-right: 20px}
+h3{color: rgb(100, 100, 100); }
+
+h5 {color: rgb(100, 100, 100); }
+
 .odd {
-  background: rgb(26, 82, 118);
+  background: rgb(245,245,245);
 }
 
 .even {
-  background: rgb(113, 156, 185);
+  background: rgb(240,248,255);
 }
 
 
